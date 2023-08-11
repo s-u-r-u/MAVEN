@@ -45,6 +45,9 @@
     <repository>
         <id>maven</id>
         <url>http://54.144.11.184:8081/repository/maven/</url>
+        <uniqueVersion>false</uniqueVersion>
+        <username>admin</username>
+        <password>Suraj@764001</password>
     </repository>
   </distributionManagement>
 

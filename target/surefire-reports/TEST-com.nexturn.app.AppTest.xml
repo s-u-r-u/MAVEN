@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.nexturn.app.AppTest" time="0.048" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.nexturn.app.AppTest" time="0.078" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/jdk-17.0.8+7/lib"/>
-    <property name="sun.java.command" value="/home/suru/maven/target/surefire/surefirebooter960594650518335220.jar /home/suru/maven/target/surefire 2023-08-11T12-12-47_335-jvmRun1 surefire2918107379544251906tmp surefire_014060754093291259155tmp"/>
+    <property name="sun.java.command" value="/home/suru/maven/target/surefire/surefirebooter3384070730705754429.jar /home/suru/maven/target/surefire 2023-08-11T13-03-35_356-jvmRun1 surefire9497091871485163156tmp surefire_014290816829147822164tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/suru/maven/target/test-classes:/home/suru/maven/target/classes:/home/suru/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/suru/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/suru/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.0/junit-jupiter-engine-5.8.0.jar:/home/suru/.m2/repository/org/junit/platform/junit-platform-engine/1.8.0/junit-platform-engine-1.8.0.jar:/home/suru/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/suru/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.0/junit-jupiter-api-5.8.0.jar:/home/suru/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/suru/.m2/repository/org/junit/platform/junit-platform-commons/1.8.0/junit-platform-commons-1.8.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/home/suru/maven/target/surefire/surefirebooter960594650518335220.jar"/>
+    <property name="surefire.real.class.path" value="/home/suru/maven/target/surefire/surefirebooter3384070730705754429.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.8+7"/>
     <property name="maven.site.skip" value="true"/>
@@ -53,9 +53,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testDivideByZero" classname="com.nexturn.app.AppTest" time="0.03"/>
+  <testcase name="testDivideByZero" classname="com.nexturn.app.AppTest" time="0.048"/>
   <testcase name="testAdd" classname="com.nexturn.app.AppTest" time="0.002"/>
-  <testcase name="testSubtract" classname="com.nexturn.app.AppTest" time="0.001"/>
-  <testcase name="testDivide" classname="com.nexturn.app.AppTest" time="0.001"/>
+  <testcase name="testSubtract" classname="com.nexturn.app.AppTest" time="0.002"/>
+  <testcase name="testDivide" classname="com.nexturn.app.AppTest" time="0.002"/>
   <testcase name="testMultiply" classname="com.nexturn.app.AppTest" time="0.001"/>
 </testsuite>
